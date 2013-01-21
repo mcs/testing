@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bestellung xmlns="test.xsd" id="1234567890">
+    <position>
+        <id>010</id>
+        <leb>
+            <id>1122334455</id>
+            <leistungen>
+                <leistung>
+                    <id>112233</id>
+                    <name>Test</name>
+                    <menge>3</menge>
+                </leistung>
+                <leistung>
+                    <id>112244</id>
+                    <name>Test 2</name>
+                    <menge>4</menge>
+                </leistung>
+            </leistungen>
+        </leb>
+    </position>
+</bestellung>
