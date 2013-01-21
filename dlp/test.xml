@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bestellung xmlns="test.xsd" id="1234567890">
+<bestellung xmlns="https://raw.github.com/mcs/testing/master/dlp/test.xsd" id="1234567890">
     <position>
         <id>010</id>
         <leb>
